@@ -1,4 +1,5 @@
 # Tableau Project | British Airways Dashboard
+## [Link to the Tableau Dashboard] (https://public.tableau.com/app/profile/ruchi.asthana/viz/British_Airways_dashboard_Ruchi_A/Summary)
 ## About the Project:
 * In this project, we build an **interactive** Tableau dashboard that tracks passenger ratings and reviews of British Airways.
 * Data Overview:
