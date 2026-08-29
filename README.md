@@ -30,3 +30,12 @@ https://public.tableau.com/app/profile/ruchi.asthana/viz/BritishAirwaysDashboard
   * Aircraft
   * Continent
 * Each of the visuals are _dynamic filters_ themselves wherein users can click within the visuals on a single data point (for example, a specific country on the map visual) to further filter down the data.
+## Some Insights:
+* The countries with the highest ratings (7 and above) have less than 5 reviews.
+* United Kingdom is the largest customer base with the highest reviews (849) followed by the United States (128).
+* A350 is the highest rated Aircraft (overall).
+* A350 is the most popular choice for Business Class while Boeing 777-300 has highest ratings for Economy Class.
+* The Airline scores lowest ratings in Entertainment across all Seat Types with the lowest being 0.5 for Economy Class.
+* No particular Aircraft stands out in Cabin Staff Service.
+* Cabin Staff Service ratings remain consistent across all Traveller and Seat Types.
+* The ratings have sharp dips in 2020 and 2021 owing to the Covid-19 period.
