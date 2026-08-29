@@ -27,4 +27,4 @@
   * Traveller Type
   * Aircraft
   * Continent
-* Each of the visuals are _dynamic filters_ themselves wherein users can click within the visuals on a single data point (for example a specific country on the map visual) to further filter down the data.
+* Each of the visuals are _dynamic filters_ themselves wherein users can click within the visuals on a single data point (for example, a specific country on the map visual) to further filter down the data.
