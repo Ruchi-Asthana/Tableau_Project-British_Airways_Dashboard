@@ -29,7 +29,7 @@ https://public.tableau.com/app/profile/ruchi.asthana/viz/BritishAirwaysDashboard
   * Traveller Type
   * Aircraft
   * Continent
-* Each of the visuals are _dynamic filters_ themselves wherein users can click within the visuals on a single data point (for example, a specific country on the map visual) to further filter down the data.
+* Each of the visuals are _dynamic filters_ themselves wherein users can click within the visuals on a single data point (for example, a specific country on the map visual) to further filtering.
 ## Some Insights:
 * The countries with the highest ratings (7 and above) have less than 5 reviews.
 * United Kingdom is the largest customer base with the highest reviews (849) followed by the United States (128).
