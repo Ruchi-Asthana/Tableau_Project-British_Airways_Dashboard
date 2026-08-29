@@ -6,7 +6,6 @@
   * _ba_reviews_: Each row of the table is a review with fields like 'Place' (where the review took place) and important Rating metrics.
   * _Countries_: Has 'Country', 'Code', 'Continent' and 'Region' fields.
   * Edit Relationship by matching fields: Place = Country (specifically to be able to use filters like 'Continent').
-* The end-user of this dashboard can select a specific metric that they would like to see with a single click.
 * The dashboard has a _'Pick a Metric'_ single-select list having custom rating categories:
   * Overall Rating
   * Cabin Staff Service
@@ -15,6 +14,7 @@
   * Ground Service
   * Seat Comfort
   * Value
+* The end-user of this dashboard can select a specific metric that they would like to see with a single click.
 * So, users can toggle between average overall ratings or food ratings or entertainment ratings very easily.
 * The project has four main visuals that are incorporated into the dashboard:
   * A Map visual that shows Average ratings and number of reviews by Country.
